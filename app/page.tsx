@@ -86,7 +86,7 @@ export default function Home() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <div className="flex-shrink-0">
-                <h1 className="text-2xl font-bold text-gray-900">H Global</h1>
+                <h1 className="text-2xl font-bold text-gray-900">AjeAgro</h1>
               </div>
             </div>
             
@@ -409,7 +409,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">Hibiscus Harvest Global Ltd.</h3>
+              <h3 className="text-xl font-bold mb-4">AjeAgro General Machindance</h3>
               <p className="text-gray-300">
                 Leading Nigerian agro-export company specializing in premium hibiscus flowers for the US market.
               </p>
