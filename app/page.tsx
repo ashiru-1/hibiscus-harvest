@@ -435,15 +435,15 @@ export default function Home() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-gray-300">
-                <li>Nigeria Office</li>
-                <li>US Office: 291 Shiloh Crossing Dr</li>
-                <li>Avon, Indiana 46123</li>
+                <li>Nigeria Office: 20, NNPC Road, Dawanau Market, Kano State, Nigeria.</li>
+                <li>US Office: 291 Shiloh Crossing Drive , Avon, Indiana. 46123</li>
+                {/* <li>Avon, Indiana 46123</li> */}
                 <li>info@hibiscusharvest.com</li>
               </ul>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-300">
-            <p>&copy; 2024 Hibiscus Harvest Global Ltd. All rights reserved.</p>
+            <p>&copy; 2025 AjeAgro Import And Export Nigeria Limited. All rights reserved.</p>
           </div>
         </div>
       </footer>
